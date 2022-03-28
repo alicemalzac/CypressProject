@@ -1,18 +1,18 @@
-# Projeto Semana Agilizei 03
+# Project Semana Agilizei 03
 
-Projeto construído conforme as instuções do professor Samuel Lucas durante o workshop Semana Agilizei 03, ao qual fizemos um projeto em Cypress para automatizar os testes de uma plataforma web.
+Project built according to the instructions of Professor Samuel Lucas (https://www.linkedin.com/in/samuellucass/) during the a week of classes everyday, for which we made a project in Cypress to automate the tests of a web platform.
 
-A plataforma web de teste foi a ** dev.finances$ ** disponibilizada pela rocketseat: https://devfinance-agilizei.netlify.app/, nela é possível:
+The test web platform was dev.finances$ provided by rocketseat:https://devfinance-agilizei.netlify.app/, it is possible to:
 
-- Adicionar uma nova transação, seja, entrada ou saída de dinheiro
-- Remover transação realida
-- Verificar Entradas e Saídas, bem como o Saldo obtido.
+- Add a new transaction, either incoming or outgoing money
+- Remove actual transaction
+- Check Inputs and Outputs, as well as the Balance obtained.
 
-Dessa forma, foram criados os testes:
+Thus, the tests were created:
 
-- Cadastrar entradas
-- Cadastrar saídas
-- Remover entrada e saída
-- Validar saldo com diversas transações
+- Register entries
+- Register departures
+- Remove input and output
+- Validate balance with multiple transactions
 
-Ao qual pode ser verificado na pasta cypress/integration/finances.spec.js
+Which can be checked in the cypress/integration/finances.spec.js folder
