@@ -1,6 +1,6 @@
 # Project Semana Agilizei 03
 
-Project built according to the instructions of Professor Samuel Lucas (https://www.linkedin.com/in/samuellucass/) during the a week of classes everyday, for which we made a project in Cypress to automate the tests of a web platform.
+Project built according to the instructions of Professor Samuel Lucas (https://www.linkedin.com/in/samuellucass/) during the a week of everyday classes, which we made this project in Cypress to automate tests of a web platform.
 
 The test web platform was dev.finances$ provided by rocketseat:https://devfinance-agilizei.netlify.app/, it is possible to:
 
